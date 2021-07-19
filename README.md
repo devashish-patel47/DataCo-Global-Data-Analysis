@@ -1,7 +1,5 @@
 # DataCo-Global-Data-Analysis
 
-This repository contains the data analysis performed by our project group called Dream Five of DataCo Global's supply chain dataset. We are a group of 5 students from St. Clair college studying as post grad first year students of Data Analytics for Business.
-
 The link for the original dataset is given below:
 https://www.kaggle.com/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
