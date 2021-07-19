@@ -5,7 +5,7 @@ This repository contains the data analysis performed by our project group called
 The link for the original dataset is given below:
 https://www.kaggle.com/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
-It contains three files: 
+This repository contains three files: 
 
 The first file is the source code python file where we imported the original dataset and performed exploratory data analysis to get an idea about our dataset as well as performed descriptive statistics on our dataset.
 
