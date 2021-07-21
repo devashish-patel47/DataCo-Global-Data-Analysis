@@ -15,11 +15,7 @@ The tableau workbook (.twb) file which contains all our final dashboards and she
 The Dream Five project group:
 
 Devashish Patel
-
 Ninad Patil
-
 Reshma Thomas
-
 Sahiba Gadhok
-
 Tanvi Pal
